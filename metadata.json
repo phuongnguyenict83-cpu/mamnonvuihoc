@@ -1,0 +1,8 @@
+{
+  "name": "Mầm Non Vui Học - AI \u0026 AR Learning",
+  "description": "Ứng dụng giáo dục mầm non thông minh tích hợp AI nhận diện đối tượng, AR, và nhật ký cảm xúc.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
